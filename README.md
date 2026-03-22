@@ -2,9 +2,11 @@
 ### AI-powered shift scheduling built for college campuses. Right person, right shift, right now.
 
 > 🏆 Built at **TruHacks 2026** — Truman State University Hackathon · Business Pitch Category  
-> 👥 Team: **Dung & Zach**
+> 👥 Team: **Dung (Tony) Le & Zachary Wellen**
 
 ---
+
+![SyncShift](syncshift_infographic_final26.pdf)
 
 ## Inspiration
 
